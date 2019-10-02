@@ -32,10 +32,12 @@ namespace memtest {
       printf("ERROR!Memory not allocated!");
       exit(0);
     }
-    printf("Filling int into memory.....\n");
+    //printf("Filling int into memory.....\n");
+    /*
     for (unsigned long i = 0; i < n; i++){
       this->ptrs[this->eaten][i] = 1;
     }
+    */
     this->eaten++;
   }
 
