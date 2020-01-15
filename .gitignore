@@ -1,0 +1,6 @@
+CLI.class
+JavaMemoryEater.class
+NativeMemoryEater.class
+eat
+libeat.dylib
+libeat.so
